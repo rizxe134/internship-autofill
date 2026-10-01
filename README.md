@@ -2,6 +2,12 @@
 
 A local browser extension for Chrome, Microsoft Edge, and Firefox. Save your profile once, scan an application, and fill repeated fields with one click. No account, subscription, API key, or external service.
 
+## Download
+
+**[Download Internship Autofill v1.0.0 (ZIP)](https://github.com/rizxe134/internship-autofill/releases/download/v1.0.0/internship-autofill-v1.0.0.zip)**
+
+Download the ZIP, right-click it and choose **Extract All**, then follow the browser instructions below. No coding or build tools are needed. [View the latest release](https://github.com/rizxe134/internship-autofill/releases/latest).
+
 ## Install in Chrome or Edge
 
 1. Extract the ZIP if you downloaded the packaged version.
