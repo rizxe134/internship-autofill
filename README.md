@@ -67,3 +67,7 @@ The tests exercise the form engine in a browser and use a storage stub to test t
 The `chromium` and `firefox` folders contain the complete extension with no build step. Automated checks passed in installed Chrome and Edge for scanning, matching, filling, preserving existing answers, dynamic fields, undo, stopping auto mode, same-origin frames, open shadow roots, and profile save/reload. JavaScript syntax was also checked. The browser APIs have not been tested in a live installed extension, and Firefox has not been runtime-tested. No automated check has been run against your actual internship sites. Installation and real-site verification remain necessary.
 
 Official API reference: https://developer.chrome.com/docs/extensions/develop/concepts/activeTab
+
+## License
+
+MIT License. Copyright (c) 2026 Rishabh Kumar Singh. See [LICENSE](LICENSE).
