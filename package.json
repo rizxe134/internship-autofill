@@ -1,6 +1,7 @@
 {
   "name": "internship-autofill",
   "version": "1.0.0",
+  "license": "MIT",
   "private": true,
   "description": "Local browser extension for repeated internship application fields",
   "scripts": {"test": "node tests/autofill.cjs"},
