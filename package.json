@@ -1,0 +1,8 @@
+{
+  "name": "internship-autofill",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Local browser extension for repeated internship application fields",
+  "scripts": {"test": "node tests/autofill.cjs"},
+  "devDependencies": {"playwright": "^1.58.0"}
+}

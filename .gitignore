@@ -1,0 +1,8 @@
+node_modules/
+test-results/
+playwright-report/
+tests/profile-preview.png
+internship-profile*.json
+*.zip
+.env
+.env.*
